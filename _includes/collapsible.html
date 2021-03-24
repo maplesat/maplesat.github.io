@@ -1,0 +1,5 @@
+<div class="collapsible-panel">
+	<button type="button" class="collapsible-button">{{ include.title }}</button>
+	{% capture collapsible %} {:.collapsible-content} {{ include.content }} {% endcapture %}
+	{{ collapsible | markdownify }}
+</div>
