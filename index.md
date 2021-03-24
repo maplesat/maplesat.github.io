@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/maplesat/maplesat.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# MapleSAT: A Machine Learning based SAT Solver
+The Maple series of SAT solvers is a family of  conflict-driven clause-learning SAT solvers outfitted with machine learning-based heuristics. Currently MapleSAT supports machine learning based branching and restarts policies. In the future, we plan to add a machine learning based clause learning policy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maplesat/maplesat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A key innovation in the MapleSAT series of SAT solvers is the use of the **learning rate branching heuristic (LRB)**, a departure from the VSIDS branching heuristic that has been the status quo for the past decade of SAT solving. (Note that the experiments in our SAT 2016 paper describing LRB use only pure branching heuristics. That is, the VSIDS experiment uses only VSIDS and the LRB experiments uses only LRB. The hybrid LRB-VSIDS branching heuristic in MapleCOMSPS and MapleGlucose is only for the SAT competition and not part of the SAT 2016 paper.)
