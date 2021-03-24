@@ -1,0 +1,104 @@
+- title: A Foundational Perspective
+  author: Vijay Ganesh
+  lectures:
+  - lecture: 1
+    link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo2ZGExYzRkYWQ2NmMxMzk3
+  - lecture: 2
+    link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo3ZGI4NWMyMTJlMGRmODM1
+  - lecture: 3+4
+    link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo3Y2ZjYjJjNzdmYzIwYzY0
+  event: Marktoberdorf Summer School 2018
+  address: Marktoberdorf, Germany
+  date: July 31-August 11, 2018
+- title: Machine Learning for SAT Solvers
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo1NDdkYzNhY2RiZWExYmMz
+  note: Invited Tutorial
+  event: CP 2018
+  address: Lille, France
+  date: August 29, 2018
+- title: An Empirical Study of Branching Heuristics Through the Lens of Global Learning Rate
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoxODMwOGFjZmFmMmZiOWYy
+  note: Invited Talk
+  event: IJCAI 2018
+  address: Stockholm, Sweden
+  date: July 17, 2018
+- title: Machine Learning-Based Restart Policy for CDCL SAT Solvers
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoyZGEyOThkNzc2OGI1Y2Y4
+  event: SAT 2018
+  address: Oxford, England
+  date: July 9, 2018
+- title: An Empirical Study of Branching Heuristics Through the Lens of Global Learning Rate
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDozZmJkN2U4YTE3MjJiNGJh
+  event: SAT 2017
+  address: Melbourne, Australia
+  date: August 29, 2017
+- title: On the Unreasonable Effectiveness of Boolean SAT Solvers
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDozYzQ3NDJjYjk4YWE4YTA0
+  event: MPI
+  address: Saarbrücken, Germany
+  date: April 24, 2017
+- title: Towards a Deeper Empirical Understanding of CDCL SAT Solvers
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo0NGRlMmExZTE5ZDgxMGMy
+  event: Automata, Logic and Games
+  address: Institute for Mathematical Sciences, Singapore
+  date: August 29, 2016
+- title: A Deeper Understanding of SAT Solver Branching Heuristics
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo1YWYwMjZmYjdkN2VhZmMw
+  event: Theoretical Foundations of SAT Solving Workshop
+  event-link: http://www.fields.utoronto.ca/activities/16-17/SAT-solving
+  address: The Fields Institute, Toronto, Canada
+  date: August 16, 2016
+- title: Towards a Deeper Empirical Understanding of CDCL SAT Solvers
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDozY2RhZmVmMWRkNjBhYTc5
+  event: CSTVA 2016 Keynote
+  address: Saarbrücken, Germany
+  date: July 17, 2016
+- title: Learning Rate Based Branching Heuristic for SAT Solvers
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo4OThkODNiMjBkOWRjOWE
+  event: SAT 2016
+  address: Bordeaux, France
+  date: July 5, 2016
+- title: Adaptive Restart and CEGAR-based Solver for Inverting Cryptographic Hash Functions
+  author: Saeed Nejati
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoyM2FhOWNlZmE4MDY4ZDhi
+  event: POS 2016
+  address: Bordeaux, France
+  date: July 4, 2016
+- title: An Introduction to CDCL Solvers
+  author: Vijay Ganesh
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoxOWEwYmE4MDE1YzE1MWZh
+  address: Chebyshev Labs, St. Petersburg, Russia
+  date: April 29, 2016
+- title: Exponential Recency Weighted Average Branching Heuristic for SAT Solvers
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoxZTUxMTdhNjI5N2FiZTEz
+  event: AAAI 2016
+  address: Phoenix, United States
+  date: February 12, 2016
+- title: Understanding VSIDS Branching Heuristics in Conflict-Driven Clause-Learning SAT Solvers
+  author: Jia Hui Liang
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoxZTUxMTdhNjI5N2FiZTEz
+  event: HVC 2015
+  address: Haifa, Israel
+  date: September 24, 2015
+- title: SAT-based Analysis of Large Real-world Feature Models is Easy
+  author: Jia Hui Liang
+  link: https://docs.google.com/presentation/d/1gliv6MKHOWxyZcXXZv8crryML2Ub1DpbMwaOoQnAzP4/edit?usp=sharing
+  event: SPLC 2015
+  address: Nashville, United States
+  date: July 20, 2015
+- title: Impact of Community Structure on SAT Solver Performance
+  author: Zack Newsham
+  link: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo1MzQzNjdmMDc2Njc5MmQ5
+  event: SAT 2014
+  address: Vienna, Austria
+  date: July 16, 2014

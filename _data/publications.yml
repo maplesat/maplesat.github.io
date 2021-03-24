@@ -1,0 +1,65 @@
+- title: Machine Learning for SAT Solvers
+  authors: Jia Hui Liang
+  pub-type: PhD Thesis (University of Waterloo)
+  date: December 5, 2018
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoyZThmNWZjYWQxNzM4MTdj
+  bib: https://sites.google.com/a/gsd.uwaterloo.ca/maplesat/thesis.bib?attredirects=0&d=1
+- title: Machine Learning-based Restart Policy for CDCL SAT Solvers
+  authors: Jia Hui Liang, Chanseok Oh, Minu Mathews, Ciza Thomas, Chunxiao Li, Vijay Ganesh
+  pub-type: 21st International Conference on Theory and Applications of Satisfiability Testing (**SAT 2018**)
+  date: July 9, 2018
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo0Njg5YjZhM2JjNDhkZTJh
+  bib: https://dblp.uni-trier.de/rec/bibtex/conf/sat/LiangOMTLG18
+- title: An Empirical Study of Branching Heuristics Through the Lens of Global Learning Rate
+  authors: Jia Hui Liang, Hari Govind V K, Pascal Poupart, Krzysztof Czarnecki, Vijay Ganesh
+  pub-type: 20th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2017**)
+  date: August 29, 2017
+  award: Best student paper honourable mention
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo3MmI0MmU4NGUyMWQ4MWU
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/sat/LiangKPCG17
+  note: Also presented at the *Sister conference best paper track* of the 27th International Joint Conference on Artificial Intelligence (**IJCAI 2018**)
+- title: Learning Rate Based Branching Heuristic for SAT Solvers
+  authors: Jia Hui Liang, Vijay Ganesh, Pascal Poupart, and Krzysztof Czarnecki
+  pub-type: 19th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2016**)
+  date: July 5, 2016
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDpjODMzNWRiMzBhNDg3Yg
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/sat/LiangGPC16
+  note: Also presented at the *Sister conferences and journals track* of the 23rd International Conference on Principles and Practice of Constraint Programming (**CP 2017**)
+- title: Adaptive Restart and CEGAR-based Solver for Inverting Cryptographic Hash Functions
+  authors: Saeed Nejati, Jia Hui Liang, Vijay Ganesh, Catherine Gebotys and Krzysztof Czarnecki
+  pub-type: "**Pragmatics of SAT 2016**"
+  date: July 4, 2016
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo1ODIzM2EzNDU4ZWE1Y2E1
+  bib: http://dblp.uni-trier.de/rec/bibtex/journals/corr/NejatiLGGC16
+- title: Exponential Recency Weighted Average Branching Heuristic for SAT Solvers
+  authors: Jia Hui Liang, Vijay Ganesh, Pascal Poupart, and Krzysztof Czarnecki
+  pub-type: 13th AAAI Conference on Artificial Intelligence (**AAAI 2016**)
+  date: February 12, 2016
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDpkYzUxMmM1MmZkNzZhMTA
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/aaai/LiangGPC16
+- title: Understanding VSIDS Branching Heuristics in Conflict-Driven Clause-Learning SAT Solvers
+  authors: Jia Hui Liang, Vijay Ganesh, Ed Zulkoski, Atulan Zaman, and Krzysztof Czarnecki
+  pub-type: 11th Haifa Verification Conference (**HVC 2016**)
+  date: November, 17, 2015
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo1N2U5M2NkODI4YjgyZDQx
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/hvc/LiangGZZC15
+- title: "SATGraf: Visualizing the Evolution of SAT Formula Structure in Solvers"
+  authors: Zack Newsham, William Lindsay, Vijay Ganesh, Jia Hui Liang, Sebastian Fischmeister, and Krzysztof Czarnecki
+  pub-type: 18th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2015**)
+  date: September 24, 2015
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDozMjc3MGZiODE1MjFmNmQw
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/sat/NewshamLGLFC15
+- title: SAT-based Analysis of Large Real-world Feature Models is Easy
+  authors: Jia Hui Liang, Vijay Ganesh, Krzysztof Czarnecki, and Venkatesh Raman
+  pub-type: 19th International Software Product Line Conference (**SPLC 2015**)
+  date: July 20, 2015
+  award: Best paper award
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDoyNGMyNDc5YzdhYjYwNDhk
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/splc/LiangGCR15
+- title: Impact of Community Structure on SAT Solver Performance
+  authors: Zack Newsham, Vijay Ganesh, Sebastian Fischmeister, Gilles Audemard, and Laurent Simon
+  pub-type: 17th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2014**)
+  date: July 16, 2014
+  award: Best student paper award
+  pdf: https://docs.google.com/a/gsd.uwaterloo.ca/viewer?a=v&pid=sites&srcid=Z3NkLnV3YXRlcmxvby5jYXxtYXBsZXNhdHxneDo0NjZjNjc0ZDljNmIzMzNj
+  bib: http://dblp.uni-trier.de/rec/bibtex/conf/sat/NewshamGFAS14
