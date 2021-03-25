@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Projects
-## SAT Complexity
-The [SAT Complexity](https://satcomplexity.github.io/hcs/) project aims to bridge the practice and theory of SAT.
+## Complexity Theory of Solvers
+The [Complexity Theory of Solvers](https://satcomplexity.github.io/) project aims to bridge the practice and theory of SAT.
 
 ## Z3 String Solver
 The [Z3 string solver](https://sites.google.com/site/z3strsolver/getting-started) is a constraint solver for the quantifier-free theory of string equations, the regular-expression membership predicates, and linear arithmetic over the length functions. Z3 string solver is implemented as a string theory plug-in of the powerful Z3 SMT solver.
