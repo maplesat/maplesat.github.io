@@ -10,6 +10,9 @@ layout: default
 * [Jia Hui Liang](http://gsd.uwaterloo.ca/jliang) - University of Waterloo
 
 ## Collaborators
+* Chunxiao Li - University of Waterloo
+* [Jonathan Chung](https://jonathanchung.xyz/) - University of Waterloo
+* [Darryl Wu](https://www.linkedin.com/in/darryl-wu/) - University of Waterloo
 * [Chanseok Oh](https://cs.nyu.edu/~chanseok/) - Google Inc.
 * [Christoph Wintersteiger](http://www.winterstiger.at/christoph/) - Microsoft Research
 * Ciza Thomas - College of Engineering, Trivandrum, India
