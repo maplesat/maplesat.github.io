@@ -5,12 +5,19 @@ layout: default
 # Publications/Presentations
 ## Publications
 {% for item in site.data.publications %}
+{% capture links %}
+{%- if item.pdf -%} [[pdf]]({{ item.pdf }}) {% endif %}
+{%- if item.bib -%} [[bib]]({{ item.bib }}) {% endif %}
+{%- if item.slides -%} [[slides]]({{ item.slides }}) {% endif %}
+{%- if item.talk -%} [[talk]]({{ item.talk }}) {% endif %}
+{% endcapture %}
+
 * **{{ item.title }}**  
-	{{ item.authors }}  
-	{{ item.pub-type }}  
-	{{ item.date }} {% if item.award %}  
+	{{ item.authors }} {% if item.pub-type %}  
+	{{ item.pub-type }} {% endif %} {% if item.date %}  
+	{{ item.date }} {% endif %} {% if item.award %}  
 	**{{ item.award }}** {% endif %}  
-	[[pdf]]({{ item.pdf }}) [[bib]]({{ item.bib }})	{% if item.note %}  
+	{{ links }}	{% if item.note %}  
 	\* {{ item.note }} {% endif %}
 {% endfor %}
 

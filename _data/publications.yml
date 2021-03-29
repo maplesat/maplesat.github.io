@@ -1,3 +1,6 @@
+- title: On the Hierarchical Community Structure of Practical SAT Formulas
+  authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
+  pdf: https://satcomplexity.github.io/hcs/assets/On_the_HCS_of_Practical_SAT_Formulas.pdf
 - title: Machine Learning for SAT Solvers
   authors: Jia Hui Liang
   pub-type: PhD Thesis (University of Waterloo)
