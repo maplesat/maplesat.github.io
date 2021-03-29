@@ -1,0 +1,54 @@
+- name: "Principal Investigator"
+  list:
+  - name: Vijay Ganesh
+    link: https://ece.uwaterloo.ca/~vganesh/
+    affiliation: University of Waterloo
+- name: "Contributors"
+  list:
+  - name: Gilles Audemard
+    link: http://www.cril.univ-artois.fr/~audemard/
+    affiliation: Artois University, France
+  - name: Curtis Bright
+    link: https://cs.uwaterloo.ca/~cbright/
+    affiliation: University of Waterloo and Maplesoft
+  - name: Jonathan Chung
+    link: https://jonathanchung.xyz/
+    affiliation: University of Waterloo
+  - name: Krzysztof Czarnecki
+    link: http://gsd.uwaterloo.ca/kczarnec
+    affiliation: University of Waterloo, Canada
+  - name: Hari Govind
+    affiliation: College of Engineering, Trivandrum, India
+  - name: Chunxiao Li
+    affiliation: University of Waterloo
+  - name: Jia Hui Liang
+    link: http://gsd.uwaterloo.ca/jliang
+    affiliation: University of Waterloo
+  - name: Ruben Martins
+    link: http://sat.inesc-id.pt/~ruben/
+    affiliation: University of Texas at Austin, United States
+  - name: Minu Mathew
+    affiliation: College of Engineering, Trivandrum, India
+  - name: Zack Newsham
+    link: https://uwaterloo.ca/embedded-software-group/people-profiles/zack-newsham
+    affiliation: University of Waterloo, Canada
+  - name: Chanseok Oh
+    link: https://cs.nyu.edu/~chanseok/
+    affiliation: Google Inc.
+  - name: Pascal Poupart
+    link: https://cs.uwaterloo.ca/~ppoupart/
+    affiliation: University of Waterloo, Canada
+  - name: Laurent Simon
+    link: http://www.labri.fr/perso/lsimon/
+    affiliation: University of Bordeaux, France
+  - name: Ciza Thomas
+    affiliation: College of Engineering, Trivandrum, India
+  - name: Christoph Wintersteiger
+    link: http://www.winterstiger.at/christoph/
+    affiliation: Microsoft Research
+  - name: Darryl Wu
+    link: https://www.linkedin.com/in/darryl-wu/
+    affiliation: University of Waterloo
+  - name: Ed Zulkoski
+    link: http://gsd.uwaterloo.ca/ezulkosk
+    affiliation: University of Waterloo, Canada
