@@ -1,3 +1,11 @@
+- title: MapleSSV SAT Solver for SAT Competition 2021
+  authors: Saeed Nejati, Md Solimul Chowdhury, Vijay Ganesh
+  pub-type: Solver Description, SAT competition 2021
+  pdf: assets/MapleSSV-SATcomp21.pdf
+- title: "New Concurrent and Distributed Painless solvers: P-MCOMSPS, P-MCOMSPS-COM, P-MCOMSPS-MPI, and P-MCOMSPS-COM-MPI"
+  authors: Vincent Vallade, Ludovic Le Frioux, Razvan Oanea, Souheib Baarir, Julien Sopena, Fabrice Kordon, Saeed Nejati, Vijay Ganesh
+  pub-type: Solver Description, SAT competition 2021
+  pdf: assets/SAT_Competition_2021-parallelSAT.pdf
 - title: On the Hierarchical Community Structure of Practical SAT Formulas
   authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
   pdf: https://arxiv.org/abs/2103.14992
