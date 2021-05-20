@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 ## Complexity Theory of Solvers
-The [Complexity Theory of Solvers](https://satcomplexity.github.io/) project aims to bridge the practice and theory of SAT.
+The [Complexity Theory of Solvers](https://satsolvercomplexity.github.io/) project aims to bridge the practice and theory of SAT.
 
 ## Crypto-SAT
 The [Crypto-SAT](https://sites.google.com/view/crypto-sat/) project aims to enhance SAT solvers for cryptanalysis tasks, tailoring solver-internal components to improve performance on cryptographic instances.
