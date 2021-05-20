@@ -9,6 +9,7 @@
 - title: On the Hierarchical Community Structure of Practical SAT Formulas
   authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
   pdf: https://arxiv.org/abs/2103.14992
+  bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2103-14992.html?view=bibtex
 - title: Machine Learning for SAT Solvers
   authors: Jia Hui Liang
   pub-type: PhD Thesis (University of Waterloo)
