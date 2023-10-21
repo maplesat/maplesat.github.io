@@ -16,6 +16,7 @@ A key innovation in the MapleSAT series of SAT solvers is the use of the **learn
 {% capture news-panel %}
 * MapleCaDiCaL_PPD won 3rd in the [SAT Competition 2023](https://satcompetition.github.io/2023/downloads.html) Main track
 [![SAT Competition 2023 medal](assets/2023SATCompMedal.jpg)](assets/2023SATCompMedal.jpg)
+[![SAT Competition 2023 MapleCaDiCaL team](assets/2023SATCompTeam.jpg)](assets/2023SATCompTeam.jpg)
 
 * MapleSAT is now the default SAT solver used in the computer algebra system [Maple 2018](https://www.maplesoft.com/products/maple/new_features/maple2018/performance.aspx).
 * MapleCOMSPS won 2nd in the [SAT Competition 2017](https://baldur.iti.kit.edu/sat-competition-2017/index.php?cat=results) Main track and No-limits track!
