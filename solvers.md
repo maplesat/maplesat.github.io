@@ -4,6 +4,45 @@ script: assets/js/collapsibles.js
 ---
 
 # Solvers
+## AlphaMapleSAT
+* A novel Monte Carlo Tree Search (MCTS) based Cube-and-Conquer SAT solver for hard combinatorial problems
+* Uses a deductively-driven MCTS lookahead to generate cubes; a CDCL solver handles the conquer phase
+* [See paper for details](https://arxiv.org/abs/2401.13770)
+* [GitHub repository](https://github.com/piyush-J/AlphaMapleSAT)
+
+{% capture license_title_AlphaMapleSAT %}
+See License (MIT)
+{% endcapture %}
+
+{% capture license_AlphaMapleSAT %}
+```
+AlphaMapleSAT -- Copyright (c) 2025 Piyush Jha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+{% endcapture %}
+
+{% include collapsible.html
+	title=license_title_AlphaMapleSAT
+	content=license_AlphaMapleSAT
+%}
+
 ## MapleCOMSPS, MapleCOMSPS_LRB, and MapleCOMSPS_CHB
 * MapleCOMSPS won 1st in the SAT Competition 2016 Main track and 2nd in the Application category
 * MapleCOMSPS_LRB won 1st in the SAT Competition 2016 Application category
