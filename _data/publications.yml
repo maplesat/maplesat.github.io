@@ -1,32 +1,39 @@
 - title: "Understanding CDCL Solvers via Scalability Studies and Proofdoors"
   authors: Shimin Zhang, Yechuan Xia, Chunxiao Li, Jianwen Li, Moshe Y. Vardi, Vijay Ganesh
+  date: May 15, 2026
   pdf: https://arxiv.org/abs/2605.15506
 - title: "Proofdoors and Efficiency of CDCL Solvers"
   authors: Sunidhi Singh, Vincent Liew, Marc Vinyals, Vijay Ganesh
+  pub-type: 29th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2026**)
+  date: July 20, 2026
   pdf: https://arxiv.org/abs/2603.26286
 - title: "AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems"
   authors: Piyush Jha, Zhengyu Li, Zhiwei Lu, Curtis Bright, Vijay Ganesh
+  pub-type: arXiv preprint
+  date: January 24, 2024
   pdf: https://arxiv.org/abs/2401.13770
   bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2401-13770.html?view=bibtex
 - title: "A Reinforcement Learning Based Reset Policy for CDCL SAT Solvers"
   authors: Chunxiao Li, Chuan Liu, Jonathan Chung, Zhiwei Lu, Piyush Jha, Vijay Ganesh
+  pub-type: arXiv preprint
+  date: April 4, 2024
   pdf: https://arxiv.org/abs/2404.03753
   bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2404-03753.html?view=bibtex
 - title: "Limits of CDCL Learning via Merge Resolution"
   authors: Marc Vinyals, Chunxiao Li, Noah Fleming, Antonina Kolokolova, Vijay Ganesh
   pub-type: 26th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2023**)
+  date: July 4, 2023
   pdf: https://arxiv.org/abs/2304.09422
   bib: https://dblp.uni-trier.de/rec/conf/sat/Vinyals0FKG23.html?view=bibtex
-- title: MapleSSV SAT Solver for SAT Competition 2021
-  authors: Saeed Nejati, Md Solimul Chowdhury, Vijay Ganesh
-  pub-type: Solver Description, SAT competition 2021
-  pdf: assets/MapleSSV-SATcomp21.pdf
 - title: "New Concurrent and Distributed Painless solvers: P-MCOMSPS, P-MCOMSPS-COM, P-MCOMSPS-MPI, and P-MCOMSPS-COM-MPI"
   authors: Vincent Vallade, Ludovic Le Frioux, Razvan Oanea, Souheib Baarir, Julien Sopena, Fabrice Kordon, Saeed Nejati, Vijay Ganesh
   pub-type: Solver Description, SAT competition 2021
+  date: July 5, 2021
   pdf: assets/SAT_Competition_2021-parallelSAT.pdf
 - title: On the Hierarchical Community Structure of Practical SAT Formulas
   authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
+  pub-type: 24th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2021**)
+  date: July 5, 2021
   pdf: https://arxiv.org/abs/2103.14992
   bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2103-14992.html?view=bibtex
 - title: Towards a Complexity-theoretic Understanding of Restarts in SAT solvers

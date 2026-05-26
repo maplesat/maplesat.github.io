@@ -4,6 +4,88 @@ script: assets/js/collapsibles.js
 ---
 
 # Solvers
+## KissatEvolve
+* Submitted to the SAT Competition 2026
+* Based off of [Kissat](https://github.com/arminbiere/kissat), with LLM and evolutionary search to optimize various heuristics
+* [GitHub repository](https://github.com/m3ru/KissatEvolve)
+
+{% capture license_title_KissatEvolve %}
+See License (MIT)
+{% endcapture %}
+
+{% capture license_KissatEvolve %}
+```
+Copyright (c) 2021-2024 Armin Biere, University of Freiburg, Germany
+Copyright (c) 2019-2021 Armin Biere, Johannes Kepler University Linz, Austria
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+{% endcapture %}
+
+{% include collapsible.html
+	title=license_title_KissatEvolve
+	content=license_KissatEvolve
+%}
+
+## MapleCaDiCaL_PPD
+* MapleCaDiCaL_PPD won 3rd (bronze medal) in the [SAT Competition 2023](https://satcompetition.github.io/2023/) Main track
+* Based off of [CaDiCaL](https://github.com/arminbiere/cadical)
+* [See solver description in SAT Competition 2023 proceedings](https://researchportal.helsinki.fi/files/269128852/sc2023_proceedings.pdf)
+
+{% capture license_title_MapleCaDiCaL_PPD %}
+See License (MIT)
+{% endcapture %}
+
+{% capture license_MapleCaDiCaL_PPD %}
+```
+MapleCaDiCaL_PPD -- Copyright (c) 2023, Vijay Ganesh
+
+CaDiCaL -- Copyright (c) 2016-2021 Armin Biere, Johannes Kepler University Linz, Austria
+           Copyright (c) 2021-2021 Armin Biere, Albert-Ludwigs-University Freiburg, Germany
+           Copyright (c) 2020-2021 Mathias Fleury, Johannes Kepler University Linz, Austria
+           Copyright (c) 2020-2021 Nils Froleyks, Johannes Kepler University Linz, Austria
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+{% endcapture %}
+
+{% include collapsible.html
+	title=license_title_MapleCaDiCaL_PPD
+	content=license_MapleCaDiCaL_PPD
+%}
+
 ## AlphaMapleSAT
 * A novel Monte Carlo Tree Search (MCTS) based Cube-and-Conquer SAT solver for hard combinatorial problems
 * Uses a deductively-driven MCTS lookahead to generate cubes; a CDCL solver handles the conquer phase
